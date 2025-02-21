@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jovialpiglet&label=Profile%20views&color=0e75b6&style=flat" alt="jovialpiglet" /> </p>
 
-- 🔭 I’m currently working on [Hava-Durumu](https://github.com/jovialpiglet/hava-durumu)
-
 - 🌱 I’m currently learning **🐧 Linux, 🦫 Go (Golang), 💎 Ruby, 🖥️ Bash Scripting, 🔵 C**
 
 - 📫 How to reach me **yunusemrecyhnn@gmail.com**
